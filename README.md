@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hola, soy Juan Sebastián Paba 👋
 
-<!--
-**kheiguwu-spec/kheiguwu-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
 
-Here are some ideas to get you started:
+Soy estudiante de Ingeniería Industrial de San Gil, Santander 🇨🇴, con experiencia real integrando tecnología y procesos de negocio. Me emociona aprender nuevas tecnologías, automatizar cosas y construir soluciones que resuelvan problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🤖 [Vocab Trainer](https://github.com/kheiguwu-spec/vocab-trainer)
+Aplicación web para aprender inglés con validación de respuestas vía API externa.  
+`JavaScript` `HTML` `CSS` `API REST`
+
+### ☕ Configuración ERP Odoo — Nono Café Colombia
+Implementación y personalización de un ERP completo para optimizar la cadena de valor del café: módulos de POS, Inventarios y Contabilidad, automatización de procesos con Python e integración de facturación electrónica.  
+`Python` `Odoo ERP` `PostgreSQL`
+
+---
+
+## 📊 GitHub Stats
+
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kheiguwu-spec&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contáctame
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jpaba311@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573209925970)
+
+---
+
+> *"Siempre aprendiendo, siempre construyendo."* 🚀
