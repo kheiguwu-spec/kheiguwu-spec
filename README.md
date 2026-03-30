@@ -25,8 +25,9 @@ I am an Industrial Engineering student in Colombia focused on technology, automa
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=kheiguwu-spec&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kheiguwu-spec&theme=github-dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
