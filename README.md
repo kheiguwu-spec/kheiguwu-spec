@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Realm.png" alt="cover" width="100%" />
+  <img src="Realm.jpg" alt="cover" width="100%" />
 </div>
 
 <br/>
