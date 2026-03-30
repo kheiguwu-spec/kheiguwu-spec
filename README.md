@@ -4,6 +4,12 @@
 
 <br/>
 # Hola, soy Kheig 
+## 🚀 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheiguwu-spec&theme=tokyonight" />
+</p>
 
 ### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
 
