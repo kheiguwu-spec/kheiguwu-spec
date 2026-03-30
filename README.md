@@ -24,8 +24,10 @@ Soy estudiante de Ingeniería Industrial en Colombia 🇨🇴 enfocado en tecnol
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kheig-spec&theme=sakura-x)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kheig-spec&theme=sakura-x" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kheiguwu-spec&theme=tokyonight" />
+</p>
 
 ---
 
