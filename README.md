@@ -2,39 +2,89 @@
   <img src="Realm.jpg" alt="cover" width="100%" />
 </div>
 
-<br/>
-# Hola, soy Kheig 
-## 🚀 Stats
+<h1 align="center">👋 Hola, soy kheig</h1>
+<h3 align="center">🚀 Ingeniero Industrial en formación | Desarrollador | Tech Lover</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheiguwu-spec&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=25&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Automatización+y+datos;Construyendo+soluciones+reales+🚀" />
 </p>
-
-### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
-
-Soy estudiante de Ingeniería Industrial de San Gil, Santander 🇨🇴, con experiencia real integrando tecnología y procesos de negocio. Me emociona aprender nuevas tecnologías, automatizar cosas y construir soluciones que resuelvan problemas reales.
 
 ---
 
-## Tech Stack
+## 🚀 Sobre mí
 
+Soy estudiante de Ingeniería Industrial en Colombia 🇨🇴 enfocado en tecnología, automatización y análisis de datos.
+
+💡 Me gusta convertir ideas en soluciones reales  
+⚙️ Automatizar procesos y optimizar sistemas  
+📊 Trabajar con datos para tomar mejores decisiones  
+
+Siempre buscando aprender algo nuevo 🚀  
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kheig&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheig&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kheig&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Desarrollo Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Bases de Datos & BI
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Herramientas
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Contáctame
+## 📌 Proyectos Destacados
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jpaba311@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573209925970)
+- 🚀 **Nombre del proyecto**  
+  Breve descripción del proyecto  
+  🔗 Link al repositorio
+
+- 📊 **Proyecto de datos**  
+  Breve descripción del proyecto  
+  🔗 Link al repositorio
 
 ---
 
-> *"Siempre aprendiendo, siempre construyendo."* 🚀
+## 📬 Contáctame
+
+<p align="center">
+  <a href="mailto:Jpaba311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/573209925970">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Construyendo el futuro, una línea de código a la vez"
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kheig&color=blueviolet" />
+</p>
