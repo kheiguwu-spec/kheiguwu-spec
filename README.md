@@ -1,9 +1,7 @@
 <div align="center">
   <img src="Realm.png" alt="cover" width="100%" />
 </div>
-
 <br/>
-
 # Hola, soy Juan Sebastián Paba 👋
 
 ### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
@@ -22,13 +20,6 @@ Soy estudiante de Ingeniería Industrial de San Gil, Santander 🇨🇴, con exp
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheiguwu-spec&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kheiguwu-spec&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
