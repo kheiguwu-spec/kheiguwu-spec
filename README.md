@@ -24,14 +24,8 @@ Soy estudiante de Ingeniería Industrial en Colombia 🇨🇴 enfocado en tecnol
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kheig&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheig&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kheig&theme=tokyonight&no-frame=true&row=1" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kheig-spec&theme=sakura-x)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kheig-spec&theme=sakura-x" alt="GitHub Streak" /></a>
 
 ---
 
