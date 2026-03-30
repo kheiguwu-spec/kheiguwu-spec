@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Ingeniero Industrial en formación | Desarrollador | Tech Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=25&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología;Automatización+y+datos;Construyendo+soluciones+reales+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=25&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnología" />
 </p>
 
 ---
