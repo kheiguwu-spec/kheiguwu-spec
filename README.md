@@ -3,7 +3,7 @@
 </div>
 
 <br/>
-# Hola, soy Juan Sebastián Paba 👋
+# Hola, soy Kheig 
 
 ### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
 
