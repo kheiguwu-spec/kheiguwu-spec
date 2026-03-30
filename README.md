@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="Realm.png" alt="cover" width="100%" />
+</div>
+
+<br/>
+
 # Hola, soy Juan Sebastián Paba 👋
 
 ### Ingeniero Industrial en formación · Desarrollador · Apasionado del mundo tech
@@ -16,18 +22,6 @@ Soy estudiante de Ingeniería Industrial de San Gil, Santander 🇨🇴, con exp
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🤖 [Vocab Trainer](https://github.com/kheiguwu-spec/vocab-trainer)
-Aplicación web para aprender inglés con validación de respuestas vía API externa.  
-`JavaScript` `HTML` `CSS` `API REST`
-
-### ☕ Configuración ERP Odoo — Nono Café Colombia
-Implementación y personalización de un ERP completo para optimizar la cadena de valor del café: módulos de POS, Inventarios y Contabilidad, automatización de procesos con Python e integración de facturación electrónica.  
-`Python` `Odoo ERP` `PostgreSQL`
 
 ---
 
