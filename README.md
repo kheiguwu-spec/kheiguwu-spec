@@ -51,18 +51,6 @@ Soy estudiante de Ingeniería Industrial en Colombia 🇨🇴 enfocado en tecnol
 
 ---
 
-## Proyectos Destacados
-
-- **Nombre del proyecto**  
-  Breve descripción del proyecto  
-  🔗 Link al repositorio
-
-- **Proyecto de datos**  
-  Breve descripción del proyecto  
-  🔗 Link al repositorio
-
----
-
 ## Contáctame
 
 <p align="center">
